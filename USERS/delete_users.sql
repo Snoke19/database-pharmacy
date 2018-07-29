@@ -1,0 +1,1 @@
+DROP USER new_users_4@localhost;
