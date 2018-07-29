@@ -1,0 +1,16 @@
+insert into custom values (1,  '2015-05-01', 2, 3,  103, 5, 1, 2);
+insert into custom values (2,  '2015-05-01', 1, 4,  104, 4, 2, 1);
+insert into custom values (3,  '2015-05-03', 1, 5,  105, 5, 3, 2);
+insert into custom values (4,  '2015-05-05', 3, 16, 116, 5, 4, 3);
+insert into custom values (5,  '2015-05-05', 1, 18, 118, 5, 5, 2);
+insert into custom values (6,  '2015-05-08', 2, 12, 112, 5, null, 1);
+insert into custom values (7,  '2015-05-08', 2, 15, 115, 4, null, 2);
+insert into custom values (8,  '2015-05-09', 1, 12, 112, 5, null, null);
+insert into custom values (9,  '2015-05-11', 1, 29, 129, 5, null, null);
+insert into custom values (10, '2015-05-11', 2, 13, 113, 4, null, null);
+insert into custom values (11, '2015-05-14', 1, 9 , 109, 4, null, 3);
+insert into custom values (12, '2015-05-15', 1, 10, 110, 4, null, null);
+insert into custom values (13, '2015-05-15', 1, 10, 110, 5, null, null);
+insert into custom values (14, '2015-05-16', 1, 18, 118, 5, null, 1);
+insert into custom values (15, '2015-05-16', 2, 17, 127, 4, null, null);
+insert into custom values (16, '2015-05-16', 2, 14, 114, 5, null, 2);
